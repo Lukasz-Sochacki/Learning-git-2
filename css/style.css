@@ -1,21 +1,18 @@
-html{
-
+html {
 max-width: 400px;
 }
-h1, h2{
 
-    text-align: center;
+h1, 
+h2 {
+text-align: center;
 }
-p{
 
+p{ 
 text-align: justify;
 line-height: 40px;
-
 }
 
-
-span{
+span {
 display: block;
 margin: 40px 0;
-
 }
